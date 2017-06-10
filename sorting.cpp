@@ -1,4 +1,4 @@
-// Suresh 106116096
+// Mudaliar 106116096
 
 /* C implementation QuickSort */
 #include<stdio.h>
